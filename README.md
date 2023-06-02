@@ -2,7 +2,7 @@
  
 # Noisy DDoS
  <p>
- <img src="https://ismoiloff.uz/images/tild3430-6338-4637-b631-386261353334-logo_samandar.png" width="90px"/> &nbsp;
+ <img src="https://imgcloud.s3.us-east-1.wasabisys.com/FNAl9XgYfr.png" width="90px"/> &nbsp;
  
 </p>
  DDoS Script (DDoS Panel) with Multiple Bypass<br>( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )<br/><br/>
